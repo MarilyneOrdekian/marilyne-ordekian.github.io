@@ -4,19 +4,23 @@ main:
       
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Research"
+    url: /research/
   
   - title: "Publications"
     url: /publications/
-
-  # url: https://scholar.google.com/citations?user=KOUyhk4AAAAJ&hl=en&oi=ao 
- # - title: "Talks"
-  #  url: /talks/    
+   url: https://scholar.google.com/citations?user=KOUyhk4AAAAJ&hl=en&oi=ao
+   
+   
+  - title: "Talks"
+   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
   
- # - title: "Blog Posts"
-#    url: /year-archive/
+ - title: "Blog Posts"
+   url: /year-archive/
     
  # - title: "CV"
  #  url: /cv/
